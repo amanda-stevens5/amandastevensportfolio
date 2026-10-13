@@ -1,0 +1,1 @@
+Unzip this archive. Upload the HTML files and style.css to the TOP LEVEL of your existing GitHub repository and commit the replacements. Keep your existing assets folder and CNAME file. No assets need to be uploaded again.
