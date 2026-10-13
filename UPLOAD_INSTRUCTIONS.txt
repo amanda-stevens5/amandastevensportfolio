@@ -1,1 +1,1 @@
-Unzip this archive. Upload the HTML files and style.css to the TOP LEVEL of your existing GitHub repository and commit the replacements. Keep your existing assets folder and CNAME file. No assets need to be uploaded again.
+Unzip this archive. Upload the HTML files to the TOP LEVEL of your existing GitHub repository, replacing the files with the same names, and commit. Keep your assets folder, style.css, and CNAME file. After deployment, visit the site and check Google Analytics Realtime.
