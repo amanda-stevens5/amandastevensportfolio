@@ -1,1 +1,1 @@
-Unzip this archive. Upload the HTML files to the TOP LEVEL of your existing GitHub repository, replacing the files with the same names, and commit. Keep your assets folder, style.css, and CNAME file. After deployment, visit the site and check Google Analytics Realtime.
+Replace index.html, tricycle.html, and style.css at the TOP LEVEL of your GitHub repository. Upload bike-machine-shop.jpeg INSIDE your existing assets folder. Keep the other files, assets, and CNAME. Commit the changes to update the site. Google Analytics is retained.
