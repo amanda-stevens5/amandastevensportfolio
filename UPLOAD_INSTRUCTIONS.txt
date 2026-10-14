@@ -1,1 +1,1 @@
-Replace index.html, tricycle.html, and style.css at the TOP LEVEL of your GitHub repository. Upload bike-machine-shop.jpeg INSIDE your existing assets folder. Keep the other files, assets, and CNAME. Commit the changes to update the site. Google Analytics is retained.
+Replace index.html and tricycle.html at the TOP LEVEL of your GitHub repository and commit. Keep assets/bike-machine-shop.jpeg, the rest of assets, style.css, and CNAME. This update moves the mill photo to the homepage gallery and separates the Medtronic internships by year. Google Analytics is retained.
